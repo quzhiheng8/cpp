@@ -38,7 +38,7 @@ int main() {
     }
 
     // (3) 开启计算机摄像头
-    VideoCapture webcam(0); // 0表示默认摄像头
+    VideoCapture webcam(0); // 0表示默认摄像头git 
     if (!webcam.isOpened()) {
         cout << "无法打开摄像头" << endl;
         return -1;

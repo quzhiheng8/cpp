@@ -3,9 +3,7 @@
     {
       "name": "macos-clang-arm64",
       "includePath": [
-        "${workspaceFolder}/**",
-        "/opt/homebrew/Cellar/opencv/4.8.1_5/lib/**",
-        "/opt/homebrew/Cellar/opencv/4.8.1_5/include/opencv4/"
+        "${workspaceFolder}/**"
       ],
       "compilerPath": "/usr/bin/clang",
       "cStandard": "${default}",
